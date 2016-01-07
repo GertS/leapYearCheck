@@ -1,4 +1,4 @@
-#Gert Sterenborg
+#Gert Sterenborg & Job de Pater
 #7 January 2016
 
 is.leap <- function(year=as.numeric(format(Sys.Date(), "%Y"))){
