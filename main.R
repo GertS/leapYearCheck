@@ -5,7 +5,7 @@ source("R/leapYearCalc.R")
 
 is.leap("nineteen-seventy-four")
 is.leap()
-is.leap(1581)
+is.leap(1581)  # Should raise an error 
 is.leap(1582)
 is.leap(2010)
 is.leap(2000)
